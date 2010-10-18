@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/selective_binding
+lib/selective_binding.rb
+test/test_selective_binding.rb
