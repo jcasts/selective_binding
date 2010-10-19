@@ -1,7 +1,7 @@
 .autotest
 History.txt
 Manifest.txt
-README.rdoc
+README.txt
 Rakefile
 bin/selective_binding
 lib/selective_binding.rb

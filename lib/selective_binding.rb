@@ -82,7 +82,7 @@ class SelectiveBinding
 
 
   ##
-  # Forward a method to the server instance.
+  # Forward a method to the object instance.
   #   binder.forward :method1, :method2, ...
 
   def forward *method_names
